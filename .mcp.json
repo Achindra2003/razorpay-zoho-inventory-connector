@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "zoho-inventory-demo": {
+      "command": "uv",
+      "args": ["run", "zoho-connector", "serve", "--demo"]
+    }
+  }
+}
